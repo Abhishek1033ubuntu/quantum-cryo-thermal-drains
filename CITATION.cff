@@ -9,7 +9,7 @@ version: "1.0.0"
 doi: "10.5281/zenodo.YOUR_RECORD_ID"
 date-released: 2026-09-26
 url: "https://github.com/Abhishek1033ubuntu/quantum-cryo-thermal-drains"
-repository-code: "https://github.com/Abhishek1033ubuntu/cryogenic-interface-phonon-engine"
+repository-code: "https://github.com/Abhishek1033ubuntu/quantum-cryo-thermal-drains"
 keywords:
   - "Cryogenics"
   - "Kapitza Resistance"
