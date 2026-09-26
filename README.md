@@ -1,7 +1,7 @@
 # 3D Micro-Fin Diamond/AlN Heat Drain & Capacitive AC Coupling Engine
 
 [![Gemini Verified](https://img.shields.io/badge/Co--Engineered%20With-Google%20Gemini-8E44AD?style=flat&logo=google-gemini&logoColor=white)](https://gemini.google.com/)
-<![![Zenodo DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.YOUR_RECORD_ID.svg)](https://doi.org/10.5281/zenodo.YOUR_RECORD_ID)>
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.x](https://img.shields.io/badge/Python-3.x-green.svg)](https://www.python.org/)
 [![Google Colab](https://img.shields.io/badge/Google_Colab-Ready-orange.svg)](https://colab.research.google.com/)
