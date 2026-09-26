@@ -66,9 +66,7 @@ python simulation/cryo_thermal_drain_solver.py
 
 ## 📜 License & Citation
 
-This project is licensed under the **MIT License** - see the [LICENSE](https://www.google.com/search?q=LICENSE&utm_source=gemini) file for full details.
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for full details.
 
-**Author:** Abhishek Singh
-
-**Repository:** [cryogenic-interface-phonon-engine](https://www.google.com/url?sa=E&source=gmail&q=https://github.com/Abhishek1033ubuntu/cryogenic-interface-phonon-engine)
-
+**Author:** Abhishek Singh  
+**Repository:** [quantum-cryo-thermal-drains](https://github.com/Abhishek1033ubuntu/quantum-cryo-thermal-drains)
