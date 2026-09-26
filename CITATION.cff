@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this research or cryogenic thermal solver in your work, please cite it as below."
+authors:
+  - family-names: "Singh"
+    given-names: "Abhishek"
+    orcid: "https://orcid.org/0009-0004-6913-096X"
+title: "3D Micro-Fin Diamond/AlN Heat Drain & Capacitive AC Coupling Engine"
+version: "1.0.0"
+doi: "10.5281/zenodo.YOUR_RECORD_ID"
+date-released: 2026-09-26
+url: "https://github.com/Abhishek1033ubuntu/quantum-cryo-thermal-drains"
+repository-code: "https://github.com/Abhishek1033ubuntu/cryogenic-interface-phonon-engine"
+keywords:
+  - "Cryogenics"
+  - "Kapitza Resistance"
+  - "Phonon Transport"
+  - "Synthetic Diamond"
+  - "AC Capacitive Coupling"
+  - "Multi-Physics Simulation"
+abstract: "Multi-physics simulation and engineering design for mitigating Kapitza thermal boundary resistance and thermal runaway at 4.2 K using 3D micro-fin diamond/AlN heat drains and high-kappa capacitive coupling."
