@@ -6,7 +6,7 @@ authors:
     orcid: "https://orcid.org/0009-0004-6913-096X"
 title: "3D Micro-Fin Diamond/AlN Heat Drain & Capacitive AC Coupling Engine"
 version: "1.0.0"
-doi: "10.5281/zenodo.YOUR_RECORD_ID"
+doi: "10.5281/zenodo."
 date-released: 2026-09-26
 url: "https://github.com/Abhishek1033ubuntu/quantum-cryo-thermal-drains"
 repository-code: "https://github.com/Abhishek1033ubuntu/quantum-cryo-thermal-drains"
